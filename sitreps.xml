@@ -4,9 +4,30 @@
         <title>DSR: Situation Reports</title>
         <link>https://reports.dev.ahconu.org/feeds/sitreps.xml</link>
         <description>All Situation Reports published on https://reports.dev.ahconu.org</description>
-        <lastBuildDate>Fri, 13 Dec 2019 17:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Dec 2019 14:45:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Afghanistan]]></title>
+            <link>https://reports.dev.ahconu.org/en/country/afghanistan/</link>
+            <guid>https://reports.dev.ahconu.org/en/country/afghanistan/</guid>
+            <pubDate>Mon, 30 Dec 2019 14:44:05 GMT</pubDate>
+            <description><![CDATA[ * In August, civilian continue to be affected by violence in the last month of campaigning before the 30 December presidential election that had been delayed twice already.
+ * Natural disasters in 2019 severely damaged or destroyed 28,356 homes in 32 provinces, affecting 292,525 people.
+ * Attacks on schools tripled between 2017 and 2018 in the first increase in attacks since 2015.
+ * Healthcare out of reach for many Afghan as nearly a third of the population needs to travel more than 5 km to receive health services.
+ * Devastating combination of drought, conflict and insecurity in 2018 continues to exacerbate the nutritional status of vulnerable people.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Burundi]]></title>
+            <link>https://reports.dev.ahconu.org/fr/country/burundi/</link>
+            <guid>https://reports.dev.ahconu.org/fr/country/burundi/</guid>
+            <pubDate>Mon, 30 Dec 2019 14:38:58 GMT</pubDate>
+            <description><![CDATA[ * L'OIM et la Croix-Rouge répondent aux ravages causés par les pluies torrentielles qui ont touché plus de 3 000 personnes au Burundi dans la province de Muyinga
+ * Prévention d'Ebola : L'UNICEF soutient la sensibilisation des écoliers burundais à l'hygiène
+ * La campagne de vaccination contre Ebola touche 4 105 personnes, dont 130 agents humanitaires.
+ * OCHA organise un atelier de planification de l'intervention humanitaire pour 2020]]></description>
+        </item>
         <item>
             <title><![CDATA[Somalia]]></title>
             <link>https://reports.dev.ahconu.org/so/country/somalia/</link>
@@ -34,16 +55,6 @@
             <pubDate>Thu, 14 Nov 2019 05:32:58 GMT</pubDate>
             <description><![CDATA[ * Flooding in Somalia affected 547,000 people. 370,000 have been displaced. 17 people died. Farmland and infrastructure were destroyed and livelihoods disrupted in some areas.
  * https://tinyurl.com/y4tsr7ac]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Burundi]]></title>
-            <link>https://reports.dev.ahconu.org/fr/country/burundi/</link>
-            <guid>https://reports.dev.ahconu.org/fr/country/burundi/</guid>
-            <pubDate>Tue, 12 Nov 2019 16:14:27 GMT</pubDate>
-            <description><![CDATA[ * L'OIM et la Croix-Rouge répondent aux ravages causés par les pluies torrentielles qui ont touché plus de 3 000 personnes au Burundi dans la province de Muyinga
- * Prévention d'Ebola : L'UNICEF soutient la sensibilisation des écoliers burundais à l'hygiène
- * La campagne de vaccination contre Ebola touche 4 105 personnes, dont 130 agents humanitaires.
- * OCHA organise un atelier de planification de l'intervention humanitaire pour 2020]]></description>
         </item>
         <item>
             <title><![CDATA[Burundi ]]></title>
@@ -90,8 +101,8 @@
             <guid>https://reports.dev.ahconu.org/uk/country/ukraine/</guid>
             <pubDate>Mon, 04 Nov 2019 16:40:41 GMT</pubDate>
             <description><![CDATA[ * Непомічені страждання мешканців місць компактного проживання в Україні.
- * Завдяки Центральному фонду реагування на надзвичайні ситуації майже 1000 родин відновила засоби до існування 
- * Терміново необхідно 52 млн дол. США для задоволення найбільш нагальних та невідкладних потреб напередодні зими 
+ * Завдяки Центральному фонду реагування на надзвичайні ситуації майже 1000 родин відновила засоби до існування
+ * Терміново необхідно 52 млн дол. США для задоволення найбільш нагальних та невідкладних потреб напередодні зими
  * Більше половини родин, які проживають поряд із «лінією розмежування», не мають доступу до медичних послуг]]></description>
         </item>
         <item>
@@ -99,9 +110,9 @@
             <link>https://reports.dev.ahconu.org/en/country/ukraine/</link>
             <guid>https://reports.dev.ahconu.org/en/country/ukraine/</guid>
             <pubDate>Mon, 04 Nov 2019 16:36:57 GMT</pubDate>
-            <description><![CDATA[ * The invisible plight of people living in collective centres in Ukraine 
- * Central Emergency Response Fund helps almost 1,000 families restore livelihoods 
- * US$52 million urgently needed to address most acute and time-critical humanitarian needs ahead of winter 
+            <description><![CDATA[ * The invisible plight of people living in collective centres in Ukraine
+ * Central Emergency Response Fund helps almost 1,000 families restore livelihoods
+ * US$52 million urgently needed to address most acute and time-critical humanitarian needs ahead of winter
  * More than half of the families living near the “contact line” cannot access healthcare]]></description>
         </item>
         <item>
@@ -109,9 +120,9 @@
             <link>https://reports.dev.ahconu.org/ru/country/ukraine/</link>
             <guid>https://reports.dev.ahconu.org/ru/country/ukraine/</guid>
             <pubDate>Mon, 04 Nov 2019 16:32:18 GMT</pubDate>
-            <description><![CDATA[ * Невидимая борьба проживающих в местах компактного проживания в Украине 
- * Благодаря Центральному фонду реагирования на чрезвычайные ситуации почти 1000 семей получила средства для жизнеобеспечения 
- * Срочно необходимо 52 млн долл. США, чтобы удовлетворить наиболее острые и неотложные потребности в преддверии зимы 
+            <description><![CDATA[ * Невидимая борьба проживающих в местах компактного проживания в Украине
+ * Благодаря Центральному фонду реагирования на чрезвычайные ситуации почти 1000 семей получила средства для жизнеобеспечения
+ * Срочно необходимо 52 млн долл. США, чтобы удовлетворить наиболее острые и неотложные потребности в преддверии зимы
  * Больше половины семей, проживающих поблизости от «линии разграничения», не имеют доступа к медицинским услугам]]></description>
         </item>
         <item>
@@ -119,7 +130,7 @@
             <link>https://reports.dev.ahconu.org/en/country/south-sudan/</link>
             <guid>https://reports.dev.ahconu.org/en/country/south-sudan/</guid>
             <pubDate>Thu, 31 Oct 2019 08:34:35 GMT</pubDate>
-            <description><![CDATA[ * South Sudan: Three humanitarian workers killed 
+            <description><![CDATA[ * South Sudan: Three humanitarian workers killed
  * Amid rising concerns about mental health, increased suicide cases in Malakal Protection of Civilians site
  * South Sudan Humanitarian Fund allocates US$36 million to respond to life-saving needs
  * New research finds 1.5 million internally displaced persons in South Sudan
@@ -187,7 +198,7 @@
             <pubDate>Wed, 11 Sep 2019 14:16:36 GMT</pubDate>
             <description><![CDATA[ * Burkina Faso is grappling with an unprecedented humanitarian emergency due to a sudden escalation of violence
  * 1.5 million people need humanitarian assistance.
- * More than 289,000 people have been uprooted from their homes. A four-fold increase since the start of the year. 
+ * More than 289,000 people have been uprooted from their homes. A four-fold increase since the start of the year.
  * More than 95 per cent of the displaced are in host communities
  * 2,024 schools have been forced shut, depriving over 330,000 children of education]]></description>
         </item>
@@ -197,21 +208,10 @@
             <guid>https://reports.dev.ahconu.org/fr/country/burkina-faso/</guid>
             <pubDate>Wed, 11 Sep 2019 14:10:10 GMT</pubDate>
             <description><![CDATA[ * Le Burkina Faso est confronté à une crise humanitaire sans précédent liée à une augmentation soudaine de violences.
- * 1,5 million de personnes auront besoin d'assistance humanitaire. 
+ * 1,5 million de personnes auront besoin d'assistance humanitaire.
  * Plus de 289 000 personnes ont été forcées de quitter leurs foyers, soit quatre fois plus depuis le début de l'année.
- * Plus de 95% de déplacés internes sont accueillis dans des communautés hôtes. 
+ * Plus de 95% de déplacés internes sont accueillis dans des communautés hôtes.
  * 2024 écoles sont fermées, privant ainsi plus de 330 000 enfants d'éducation. ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan]]></title>
-            <link>https://reports.dev.ahconu.org/en/country/afghanistan/</link>
-            <guid>https://reports.dev.ahconu.org/en/country/afghanistan/</guid>
-            <pubDate>Wed, 04 Sep 2019 08:22:31 GMT</pubDate>
-            <description><![CDATA[ * In August, civilian continue to be affected by violence in the last month of campaigning before the 28 September presidential election that had been delayed twice already.
- * Natural disasters in 2019 severely damaged or destroyed 24,653 homes in 32 provinces, affecting 292,525 people.
- * Attacks on schools tripled between 2017 and 2018 in the first increase in attacks since 2015.
- * Healthcare out of reach for many Afghan as nearly a third of the population needs to travel more than 5 km to receive health services.
- * Devastating combination of drought, conflict and insecurity in 2018 continues to exacerbate the nutritional status of vulnerable people.]]></description>
         </item>
         <item>
             <title><![CDATA[Myanmar]]></title>
