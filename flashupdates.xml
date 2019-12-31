@@ -4,9 +4,16 @@
         <title>DSR: Flash Updates</title>
         <link>https://reports.dev.ahconu.org/feeds/flashupdates.xml</link>
         <description>All Flash Updates published on https://reports.dev.ahconu.org</description>
-        <lastBuildDate>Fri, 13 Dec 2019 17:39:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2019 11:12:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Flash Update No. 1: Typhoon Phanfone (Ursula)]]></title>
+            <link>https://reports.dev.ahconu.org/en/country/philippines/flash-update/4qNLTLKuXxSka0eSYMJvG2/</link>
+            <guid>https://reports.dev.ahconu.org/en/country/philippines/flash-update/4qNLTLKuXxSka0eSYMJvG2/</guid>
+            <pubDate>Tue, 31 Dec 2019 11:04:26 GMT</pubDate>
+            <description><![CDATA[&lt;p&gt;This is an example FU to experiment with the feeds.&lt;/p&gt;&lt;p&gt;Second paragraph to see if we can import the content of a FU into MailChimp.&lt;/p&gt;]]></description>
+        </item>
         <item>
             <title><![CDATA[Flash Update No. 4: Tulunan, North Cotabato Earthquakes as of 12 November]]></title>
             <link>https://reports.dev.ahconu.org/en/country/philippines/flash-update/46WJvqeri9B1J7IiCLhTKh/</link>
