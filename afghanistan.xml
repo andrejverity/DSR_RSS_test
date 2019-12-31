@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>DSR: Situation Reports</title>
+        <title>Afghanistan - EN</title>
         <link>https://reports.dev.ahconu.org/feeds/en/country/afghanistan.xml</link>
         <description>All content for Afghanistan published on https://reports.dev.ahconu.org</description>
-        <lastBuildDate>Mon, 30 Dec 2019 14:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2019 11:11:29 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
