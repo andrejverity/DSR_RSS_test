@@ -4,9 +4,29 @@
         <title>DSR: Situation Reports</title>
         <link>https://reports.dev.ahconu.org/feeds/sitreps.xml</link>
         <description>All Situation Reports published on https://reports.dev.ahconu.org</description>
-        <lastBuildDate>Mon, 30 Dec 2019 14:45:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2019 11:12:35 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Ukraine]]></title>
+            <link>https://reports.dev.ahconu.org/uk/country/ukraine/</link>
+            <guid>https://reports.dev.ahconu.org/uk/country/ukraine/</guid>
+            <pubDate>Tue, 31 Dec 2019 11:02:42 GMT</pubDate>
+            <description><![CDATA[ * Непомічені страждання мешканців місць компактного проживання в Україні.
+ * Завдяки Центральному фонду реагування на надзвичайні ситуації майже 1000 родин відновила засоби до існування
+ * Терміново необхідно 52 млн дол. США для задоволення найбільш нагальних та невідкладних потреб напередодні зими
+ * Більше половини родин, які проживають поряд із «лінією розмежування», не мають доступу до медичних послуг]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Burundi ]]></title>
+            <link>https://reports.dev.ahconu.org/en/country/burundi/</link>
+            <guid>https://reports.dev.ahconu.org/en/country/burundi/</guid>
+            <pubDate>Tue, 31 Dec 2019 11:01:02 GMT</pubDate>
+            <description><![CDATA[ * IOM and Red Cross respond to devastation caused by torrential rains, affecting over 3,000 people in Burundi in Muyinga Province
+ * Ebola prevention: UNICEF supports Burundian schoolchildren's hygiene awareness
+ * The Ebola vaccination campaign reaches 4,105 people including 130 humanitarian workers
+ * OCHA hosts the 2020 humanitarian response planning workshop]]></description>
+        </item>
         <item>
             <title><![CDATA[Afghanistan]]></title>
             <link>https://reports.dev.ahconu.org/en/country/afghanistan/</link>
@@ -57,16 +77,6 @@
  * https://tinyurl.com/y4tsr7ac]]></description>
         </item>
         <item>
-            <title><![CDATA[Burundi ]]></title>
-            <link>https://reports.dev.ahconu.org/en/country/burundi/</link>
-            <guid>https://reports.dev.ahconu.org/en/country/burundi/</guid>
-            <pubDate>Tue, 12 Nov 2019 15:46:21 GMT</pubDate>
-            <description><![CDATA[ * IOM and Red Cross respond to devastation caused by torrential rains, affecting over 3,000 people in Burundi in Muyinga Province
- * Ebola prevention: UNICEF supports Burundian schoolchildren's hygiene awareness
- * The Ebola vaccination campaign reaches 4,105 people including 130 humanitarian workers
- * OCHA hosts the 2020 humanitarian response planning workshop]]></description>
-        </item>
-        <item>
             <title><![CDATA[Philippines]]></title>
             <link>https://reports.dev.ahconu.org/en/country/philippines/</link>
             <guid>https://reports.dev.ahconu.org/en/country/philippines/</guid>
@@ -94,16 +104,6 @@
  * The Yemen Humanitarian Fund supports programmes at risk of shutting down
  * Access restrictions prevent humanitarians from reaching people in need
  * Fuel shortages impact the water and sanitation sector]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine]]></title>
-            <link>https://reports.dev.ahconu.org/uk/country/ukraine/</link>
-            <guid>https://reports.dev.ahconu.org/uk/country/ukraine/</guid>
-            <pubDate>Mon, 04 Nov 2019 16:40:41 GMT</pubDate>
-            <description><![CDATA[ * Непомічені страждання мешканців місць компактного проживання в Україні.
- * Завдяки Центральному фонду реагування на надзвичайні ситуації майже 1000 родин відновила засоби до існування
- * Терміново необхідно 52 млн дол. США для задоволення найбільш нагальних та невідкладних потреб напередодні зими
- * Більше половини родин, які проживають поряд із «лінією розмежування», не мають доступу до медичних послуг]]></description>
         </item>
         <item>
             <title><![CDATA[Ukraine]]></title>
