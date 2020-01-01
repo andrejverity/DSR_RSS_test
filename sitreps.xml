@@ -4,9 +4,30 @@
         <title>DSR: Situation Reports</title>
         <link>https://reports.dev.ahconu.org/feeds/sitreps.xml</link>
         <description>All Situation Reports published on https://reports.dev.ahconu.org</description>
-        <lastBuildDate>Tue, 31 Dec 2019 11:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2020 16:21:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Burundi]]></title>
+            <link>https://reports.dev.ahconu.org/fr/country/burundi/</link>
+            <guid>https://reports.dev.ahconu.org/fr/country/burundi/</guid>
+            <pubDate>Wed, 01 Jan 2020 16:09:01 GMT</pubDate>
+            <description><![CDATA[ * L'OIM et la Croix-Rouge répondent aux ravages causés par les pluies torrentielles qui ont touché plus de 3 000 personnes au Burundi dans la province de Muyinga
+ * Prévention d'Ebola : L'UNICEF soutient la sensibilisation des écoliers burundais à l'hygiène
+ * La campagne de vaccination contre Ebola touche 4 105 personnes, dont 130 agents humanitaires.
+ * OCHA organise un atelier de planification de l'intervention humanitaire pour 2020]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan]]></title>
+            <link>https://reports.dev.ahconu.org/en/country/afghanistan/</link>
+            <guid>https://reports.dev.ahconu.org/en/country/afghanistan/</guid>
+            <pubDate>Wed, 01 Jan 2020 16:02:22 GMT</pubDate>
+            <description><![CDATA[ * In August, civilian continue to be affected by violence in the last month of campaigning before the 30 December presidential election that had been delayed twice already.
+ * Natural disasters in 2019 severely damaged or destroyed 28,356 homes in 32 provinces, affecting 292,525 people.
+ * Attacks on schools tripled between 2017 and 2018 in the first increase in attacks since 2015.
+ * Healthcare out of reach for many Afghan as nearly a third of the population needs to travel more than 5 km to receive health services.
+ * Devastating combination of drought, conflict and insecurity in 2018 continues to exacerbate the nutritional status of vulnerable people.]]></description>
+        </item>
         <item>
             <title><![CDATA[Ukraine]]></title>
             <link>https://reports.dev.ahconu.org/uk/country/ukraine/</link>
@@ -26,27 +47,6 @@
  * Ebola prevention: UNICEF supports Burundian schoolchildren's hygiene awareness
  * The Ebola vaccination campaign reaches 4,105 people including 130 humanitarian workers
  * OCHA hosts the 2020 humanitarian response planning workshop]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan]]></title>
-            <link>https://reports.dev.ahconu.org/en/country/afghanistan/</link>
-            <guid>https://reports.dev.ahconu.org/en/country/afghanistan/</guid>
-            <pubDate>Mon, 30 Dec 2019 14:44:05 GMT</pubDate>
-            <description><![CDATA[ * In August, civilian continue to be affected by violence in the last month of campaigning before the 30 December presidential election that had been delayed twice already.
- * Natural disasters in 2019 severely damaged or destroyed 28,356 homes in 32 provinces, affecting 292,525 people.
- * Attacks on schools tripled between 2017 and 2018 in the first increase in attacks since 2015.
- * Healthcare out of reach for many Afghan as nearly a third of the population needs to travel more than 5 km to receive health services.
- * Devastating combination of drought, conflict and insecurity in 2018 continues to exacerbate the nutritional status of vulnerable people.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Burundi]]></title>
-            <link>https://reports.dev.ahconu.org/fr/country/burundi/</link>
-            <guid>https://reports.dev.ahconu.org/fr/country/burundi/</guid>
-            <pubDate>Mon, 30 Dec 2019 14:38:58 GMT</pubDate>
-            <description><![CDATA[ * L'OIM et la Croix-Rouge répondent aux ravages causés par les pluies torrentielles qui ont touché plus de 3 000 personnes au Burundi dans la province de Muyinga
- * Prévention d'Ebola : L'UNICEF soutient la sensibilisation des écoliers burundais à l'hygiène
- * La campagne de vaccination contre Ebola touche 4 105 personnes, dont 130 agents humanitaires.
- * OCHA organise un atelier de planification de l'intervention humanitaire pour 2020]]></description>
         </item>
         <item>
             <title><![CDATA[Somalia]]></title>
