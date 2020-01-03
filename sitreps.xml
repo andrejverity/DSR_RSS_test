@@ -4,244 +4,245 @@
         <title>DSR: Situation Reports</title>
         <link>https://reports.dev.ahconu.org/feeds/sitreps.xml</link>
         <description>All Situation Reports published on https://reports.dev.ahconu.org</description>
-        <lastBuildDate>Wed, 01 Jan 2020 16:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2020 15:26:43 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Haiti]]></title>
+            <link>https://reports.dev.ahconu.org/en/country/haiti/</link>
+            <guid>https://reports.dev.ahconu.org/en/country/haiti/</guid>
+            <pubDate>Fri, 03 Jan 2020 15:26:36 GMT</pubDate>
+            <description><![CDATA[<ul><li>Hospitals, orphanages, civil protection units and other emergency services are functioning with limited capacity because of fuel shortage, lack of safe water and other essentials.</li>
+<li>UN agencies and their partners seek to resume humanitarian assistance to thousands of vulnerable Haitians. Their ability to deliver is affected because of restricted access.</li>
+<li>Completely new Highlight regarding another issue in Haiti.</li></ul>]]></description>
+        </item>
         <item>
             <title><![CDATA[Burundi]]></title>
             <link>https://reports.dev.ahconu.org/fr/country/burundi/</link>
             <guid>https://reports.dev.ahconu.org/fr/country/burundi/</guid>
-            <pubDate>Wed, 01 Jan 2020 16:09:01 GMT</pubDate>
-            <description><![CDATA[ * L'OIM et la Croix-Rouge répondent aux ravages causés par les pluies torrentielles qui ont touché plus de 3 000 personnes au Burundi dans la province de Muyinga
- * Prévention d'Ebola : L'UNICEF soutient la sensibilisation des écoliers burundais à l'hygiène
- * La campagne de vaccination contre Ebola touche 4 105 personnes, dont 130 agents humanitaires.
- * OCHA organise un atelier de planification de l'intervention humanitaire pour 2020]]></description>
+            <pubDate>Fri, 03 Jan 2020 15:25:11 GMT</pubDate>
+            <description><![CDATA[<ul><li>L'OIM et la Croix-Rouge répondent aux ravages causés par les pluies torrentielles qui ont touché plus de 3 000 personnes au Burundi dans la province de Muyinga</li>
+<li>Prévention d'Ebola : L'UNICEF soutient la sensibilisation des écoliers burundais à l'hygiène</li>
+<li>La campagne de vaccination contre Ebola touche 4 105 personnes, dont 130 agents humanitaires.</li>
+<li>OCHA organise un atelier de planification de l'intervention humanitaire pour 2020</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Afghanistan]]></title>
             <link>https://reports.dev.ahconu.org/en/country/afghanistan/</link>
             <guid>https://reports.dev.ahconu.org/en/country/afghanistan/</guid>
             <pubDate>Wed, 01 Jan 2020 16:02:22 GMT</pubDate>
-            <description><![CDATA[ * In August, civilian continue to be affected by violence in the last month of campaigning before the 30 December presidential election that had been delayed twice already.
- * Natural disasters in 2019 severely damaged or destroyed 28,356 homes in 32 provinces, affecting 292,525 people.
- * Attacks on schools tripled between 2017 and 2018 in the first increase in attacks since 2015.
- * Healthcare out of reach for many Afghan as nearly a third of the population needs to travel more than 5 km to receive health services.
- * Devastating combination of drought, conflict and insecurity in 2018 continues to exacerbate the nutritional status of vulnerable people.]]></description>
+            <description><![CDATA[<ul><li>In August, civilian continue to be affected by violence in the last month of campaigning before the 30 December presidential election that had been delayed twice already.</li>
+<li>Natural disasters in 2019 severely damaged or destroyed 28,356 homes in 32 provinces, affecting 292,525 people.</li>
+<li>Attacks on schools tripled between 2017 and 2018 in the first increase in attacks since 2015.</li>
+<li>Healthcare out of reach for many Afghan as nearly a third of the population needs to travel more than 5 km to receive health services.</li>
+<li>Devastating combination of drought, conflict and insecurity in 2018 continues to exacerbate the nutritional status of vulnerable people.</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Ukraine]]></title>
             <link>https://reports.dev.ahconu.org/uk/country/ukraine/</link>
             <guid>https://reports.dev.ahconu.org/uk/country/ukraine/</guid>
             <pubDate>Tue, 31 Dec 2019 11:02:42 GMT</pubDate>
-            <description><![CDATA[ * Непомічені страждання мешканців місць компактного проживання в Україні.
- * Завдяки Центральному фонду реагування на надзвичайні ситуації майже 1000 родин відновила засоби до існування
- * Терміново необхідно 52 млн дол. США для задоволення найбільш нагальних та невідкладних потреб напередодні зими
- * Більше половини родин, які проживають поряд із «лінією розмежування», не мають доступу до медичних послуг]]></description>
+            <description><![CDATA[<ul><li>Непомічені страждання мешканців місць компактного проживання в Україні.</li>
+<li>Завдяки Центральному фонду реагування на надзвичайні ситуації майже 1000 родин відновила засоби до існування </li>
+<li>Терміново необхідно 52 млн дол. США для задоволення найбільш нагальних та невідкладних потреб напередодні зими </li>
+<li>Більше половини родин, які проживають поряд із «лінією розмежування», не мають доступу до медичних послуг</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Burundi ]]></title>
             <link>https://reports.dev.ahconu.org/en/country/burundi/</link>
             <guid>https://reports.dev.ahconu.org/en/country/burundi/</guid>
             <pubDate>Tue, 31 Dec 2019 11:01:02 GMT</pubDate>
-            <description><![CDATA[ * IOM and Red Cross respond to devastation caused by torrential rains, affecting over 3,000 people in Burundi in Muyinga Province
- * Ebola prevention: UNICEF supports Burundian schoolchildren's hygiene awareness
- * The Ebola vaccination campaign reaches 4,105 people including 130 humanitarian workers
- * OCHA hosts the 2020 humanitarian response planning workshop]]></description>
+            <description><![CDATA[<ul><li>IOM and Red Cross respond to devastation caused by torrential rains, affecting over 3,000 people in Burundi in Muyinga Province</li>
+<li>Ebola prevention: UNICEF supports Burundian schoolchildren's hygiene awareness</li>
+<li>The Ebola vaccination campaign reaches 4,105 people including 130 humanitarian workers</li>
+<li>OCHA hosts the 2020 humanitarian response planning workshop</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Somalia]]></title>
             <link>https://reports.dev.ahconu.org/so/country/somalia/</link>
             <guid>https://reports.dev.ahconu.org/so/country/somalia/</guid>
             <pubDate>Wed, 04 Dec 2019 17:06:56 GMT</pubDate>
-            <description><![CDATA[ * Fatahaada Soomaaliya waxay saameysay 547,000 oo qof; 370,000 oo qof ayaa barakacay 17 kalena waa la dilay.
- * Hay'adaha samafalka iyo la-hawlgalayaasheeda ayaa gaaraya ugu yaraan 105,000 oo dad ah oo ay daadadku saameeyeen Soomaaliya laakiin nusqaanno ayaa weli ku jira bixinta gargaarka.
- * Xilligii Gu'gii 2019 ee la soo dhaafay ayaa soo saaray goosashada dalaggii ugu hooseeyay koonfurta Soomaaliya muddo tobanaan sano ah.
- * Magaalooyinka hareereysan iyo xannibaadaha gelitaanka ayaa xaddidey qiyaastii 77,000 oo qof in ay gargaar helaan.]]></description>
+            <description><![CDATA[<ul><li>Fatahaada Soomaaliya waxay saameysay 547,000 oo qof; 370,000 oo qof ayaa barakacay 17 kalena waa la dilay.</li>
+<li>Hay'adaha samafalka iyo la-hawlgalayaasheeda ayaa gaaraya ugu yaraan 105,000 oo dad ah oo ay daadadku saameeyeen Soomaaliya laakiin nusqaanno ayaa weli ku jira bixinta gargaarka.</li>
+<li>Xilligii Gu'gii 2019 ee la soo dhaafay ayaa soo saaray goosashada dalaggii ugu hooseeyay koonfurta Soomaaliya muddo tobanaan sano ah.</li>
+<li>Magaalooyinka hareereysan iyo xannibaadaha gelitaanka ayaa xaddidey qiyaastii 77,000 oo qof in ay gargaar helaan.</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Sudan]]></title>
             <link>https://reports.dev.ahconu.org/en/country/sudan/</link>
             <guid>https://reports.dev.ahconu.org/en/country/sudan/</guid>
             <pubDate>Tue, 26 Nov 2019 15:27:10 GMT</pubDate>
-            <description><![CDATA[ * Humanitarian partners continue to assist over 202,000 vulnerable people in the Abyei Area.
- * An estimated 2,600 refugees from the Central African Republic have fled their homes and taken refuge in Um Dafug locality, South Darfur State.
- * Cholera (336 cases), dengue (1,793 cases), rift valley fever (293 cases), and chikungunya (82 cases) continue to be reported across the country.
- * In response to the rift valley fever outbreak in Red Sea State a task force committee has been activated and is meeting daily. ]]></description>
+            <description><![CDATA[<ul><li>Humanitarian partners continue to assist over 202,000 vulnerable people in the Abyei Area.</li>
+<li>An estimated 2,600 refugees from the Central African Republic have fled their homes and taken refuge in Um Dafug locality, South Darfur State.</li>
+<li>Cholera (336 cases), dengue (1,793 cases), rift valley fever (293 cases), and chikungunya (82 cases) continue to be reported across the country.</li>
+<li>In response to the rift valley fever outbreak in Red Sea State a task force committee has been activated and is meeting daily. </li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Somalia ]]></title>
             <link>https://reports.dev.ahconu.org/en/country/somalia/</link>
             <guid>https://reports.dev.ahconu.org/en/country/somalia/</guid>
             <pubDate>Thu, 14 Nov 2019 05:32:58 GMT</pubDate>
-            <description><![CDATA[ * Flooding in Somalia affected 547,000 people. 370,000 have been displaced. 17 people died. Farmland and infrastructure were destroyed and livelihoods disrupted in some areas.
- * https://tinyurl.com/y4tsr7ac]]></description>
+            <description><![CDATA[<ul><li>Flooding in Somalia affected 547,000 people. 370,000 have been displaced. 17 people died. Farmland and infrastructure were destroyed and livelihoods disrupted in some areas.</li>
+<li>https://tinyurl.com/y4tsr7ac</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Philippines]]></title>
             <link>https://reports.dev.ahconu.org/en/country/philippines/</link>
             <guid>https://reports.dev.ahconu.org/en/country/philippines/</guid>
             <pubDate>Tue, 12 Nov 2019 13:56:38 GMT</pubDate>
-            <description><![CDATA[ * As of 12 November, over 260,000 people are in need of assistance due to a series of earthquakes in Tulunan, North Cotabato in Mindanao.
- * The Humanitarian-Development-Peace Nexus: Towards a New Way of Working in the Philippines]]></description>
+            <description><![CDATA[<ul><li>As of 12 November, over 260,000 people are in need of assistance due to a series of earthquakes in Tulunan, North Cotabato in Mindanao.</li>
+<li>The Humanitarian-Development-Peace Nexus: Towards a New Way of Working in the Philippines</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Sudan]]></title>
             <link>https://reports.dev.ahconu.org/ar/country/sudan/</link>
             <guid>https://reports.dev.ahconu.org/ar/country/sudan/</guid>
             <pubDate>Thu, 07 Nov 2019 12:48:51 GMT</pubDate>
-            <description><![CDATA[ * يواصل الشركاء في المجال الإنساني تقديم المساعدات في منطقة أبيي إلى ما يزيد عن 202,000 من الأشخاص الأكثر عرضة للمخاطر.
- * ما يقدر بنحو 2,600 لاجئ من جمهورية أفريقيا الوسطى فروا من ديارهم ولجأوا إلى محلية أم دافوق بولاية جنوب دارفور.
- * يستمر الإبلاغ عن الكوليرا (332 حالة)، وحمى الضنك (1,197 حالة)، وحمى الوادي المتصدع (279 حالة)، والشيكونغونيا (63 حالة) في أنحاء البلاد كافة.
- * استجابةً لتفشي حمى الوادي المتصدع في ولاية البحر الأحمر، جرى تنشيط فرقة العمل المعنية التي تعقد اجتماعاتها يومياً.]]></description>
+            <description><![CDATA[<ul><li>يواصل الشركاء في المجال الإنساني تقديم المساعدات في منطقة أبيي إلى ما يزيد عن 211,000 من الأشخاص الأكثر عرضة للمخاطر.</li>
+<li>ما يقدر بنحو 2,600 لاجئ من جمهورية أفريقيا الوسطى فروا من ديارهم ولجأوا إلى محلية أم دافوق بولاية جنوب دارفور.</li>
+<li>يستمر الإبلاغ عن الكوليرا (332 حالة)، وحمى الضنك (1,197 حالة)، وحمى الوادي المتصدع (279 حالة)، والشيكونغونيا (63 حالة) في أنحاء البلاد كافة.</li>
+<li>استجابةً لتفشي حمى الوادي المتصدع في ولاية البحر الأحمر، جرى تنشيط فرقة العمل المعنية التي تعقد اجتماعاتها يومياً.</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Yemen]]></title>
             <link>https://reports.dev.ahconu.org/en/country/yemen/</link>
             <guid>https://reports.dev.ahconu.org/en/country/yemen/</guid>
             <pubDate>Tue, 05 Nov 2019 22:03:05 GMT</pubDate>
-            <description><![CDATA[ * September was the deadliest month for civilians in Yemen
- * The humanitarian operation reached millions more than in 2018
- * The Yemen Humanitarian Fund supports programmes at risk of shutting down
- * Access restrictions prevent humanitarians from reaching people in need
- * Fuel shortages impact the water and sanitation sector]]></description>
+            <description><![CDATA[<ul><li>September was the deadliest month for civilians in Yemen</li>
+<li>The humanitarian operation reached millions more than in 2018</li>
+<li>The Yemen Humanitarian Fund supports programmes at risk of shutting down</li>
+<li>Access restrictions prevent humanitarians from reaching people in need</li>
+<li>Fuel shortages impact the water and sanitation sector</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Ukraine]]></title>
             <link>https://reports.dev.ahconu.org/en/country/ukraine/</link>
             <guid>https://reports.dev.ahconu.org/en/country/ukraine/</guid>
             <pubDate>Mon, 04 Nov 2019 16:36:57 GMT</pubDate>
-            <description><![CDATA[ * The invisible plight of people living in collective centres in Ukraine
- * Central Emergency Response Fund helps almost 1,000 families restore livelihoods
- * US$52 million urgently needed to address most acute and time-critical humanitarian needs ahead of winter
- * More than half of the families living near the “contact line” cannot access healthcare]]></description>
+            <description><![CDATA[<ul><li>The invisible plight of people living in collective centres in Ukraine </li>
+<li>Central Emergency Response Fund helps almost 1,000 families restore livelihoods </li>
+<li>US$52 million urgently needed to address most acute and time-critical humanitarian needs ahead of winter </li>
+<li>More than half of the families living near the “contact line” cannot access healthcare</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Ukraine]]></title>
             <link>https://reports.dev.ahconu.org/ru/country/ukraine/</link>
             <guid>https://reports.dev.ahconu.org/ru/country/ukraine/</guid>
             <pubDate>Mon, 04 Nov 2019 16:32:18 GMT</pubDate>
-            <description><![CDATA[ * Невидимая борьба проживающих в местах компактного проживания в Украине
- * Благодаря Центральному фонду реагирования на чрезвычайные ситуации почти 1000 семей получила средства для жизнеобеспечения
- * Срочно необходимо 52 млн долл. США, чтобы удовлетворить наиболее острые и неотложные потребности в преддверии зимы
- * Больше половины семей, проживающих поблизости от «линии разграничения», не имеют доступа к медицинским услугам]]></description>
+            <description><![CDATA[<ul><li>Невидимая борьба проживающих в местах компактного проживания в Украине </li>
+<li>Благодаря Центральному фонду реагирования на чрезвычайные ситуации почти 1000 семей получила средства для жизнеобеспечения </li>
+<li>Срочно необходимо 52 млн долл. США, чтобы удовлетворить наиболее острые и неотложные потребности в преддверии зимы </li>
+<li>Больше половины семей, проживающих поблизости от «линии разграничения», не имеют доступа к медицинским услугам</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[South Sudan]]></title>
             <link>https://reports.dev.ahconu.org/en/country/south-sudan/</link>
             <guid>https://reports.dev.ahconu.org/en/country/south-sudan/</guid>
             <pubDate>Thu, 31 Oct 2019 08:34:35 GMT</pubDate>
-            <description><![CDATA[ * South Sudan: Three humanitarian workers killed
- * Amid rising concerns about mental health, increased suicide cases in Malakal Protection of Civilians site
- * South Sudan Humanitarian Fund allocates US$36 million to respond to life-saving needs
- * New research finds 1.5 million internally displaced persons in South Sudan
- * More than 6.35 million people severely food insecure in August despite large scale humanitarian assistance ]]></description>
+            <description><![CDATA[<ul><li>South Sudan: Three humanitarian workers killed </li>
+<li>Amid rising concerns about mental health, increased suicide cases in Malakal Protection of Civilians site</li>
+<li>South Sudan Humanitarian Fund allocates US$36 million to respond to life-saving needs</li>
+<li>New research finds 1.5 million internally displaced persons in South Sudan</li>
+<li>More than 6.35 million people severely food insecure in August despite large scale humanitarian assistance </li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Haiti]]></title>
             <link>https://reports.dev.ahconu.org/fr/country/haiti/</link>
             <guid>https://reports.dev.ahconu.org/fr/country/haiti/</guid>
             <pubDate>Wed, 02 Oct 2019 01:45:52 GMT</pubDate>
-            <description><![CDATA[ * Les hôpitaux et les autres services d'urgence fonctionnent avec une capacité limitée en raison de la pénurie de carburant, du manque d'eau potable et d'autres éléments essentiels.
- * Les partenaires humanitaires cherchent à relancer l’assistance aux Haïtiens, après que leur capacité ait été affectée par le manque de sécurité et la pénurie de carburant.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Haiti]]></title>
-            <link>https://reports.dev.ahconu.org/en/country/haiti/</link>
-            <guid>https://reports.dev.ahconu.org/en/country/haiti/</guid>
-            <pubDate>Wed, 02 Oct 2019 00:14:48 GMT</pubDate>
-            <description><![CDATA[ * Hospitals, orphanages, civil protection units and other emergency services are functioning with limited capacity because of fuel shortage, lack of safe water and other essentials.
- * UN agencies and their partners seek to resume humanitarian assistance to thousands of vulnerable Haitians, as their ability to deliver is affected because of restricted access.]]></description>
+            <description><![CDATA[<ul><li>Les hôpitaux et les autres services d'urgence fonctionnent avec une capacité limitée en raison de la pénurie de carburant, du manque d'eau potable et d'autres éléments essentiels.</li>
+<li>Les partenaires humanitaires cherchent à relancer l’assistance aux Haïtiens, après que leur capacité ait été affectée par le manque de sécurité et la pénurie de carburant.</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Tchad]]></title>
             <link>https://reports.dev.ahconu.org/fr/country/chad/</link>
             <guid>https://reports.dev.ahconu.org/fr/country/chad/</guid>
             <pubDate>Fri, 27 Sep 2019 12:52:51 GMT</pubDate>
-            <description><![CDATA[ * Des milliers de personnes privées d'aide à cause du déficit de financement
- * Plus de 36 000 personnes sont touchées par les inondations en raison de l'évolution des régimes pluviométriques
- * Les femmes humanitaires font la différence]]></description>
+            <description><![CDATA[<ul><li>Des milliers de personnes privées d'aide à cause du déficit de financement</li>
+<li>Plus de 36 000 personnes sont touchées par les inondations en raison de l'évolution des régimes pluviométriques</li>
+<li>Les femmes humanitaires font la différence</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Niger]]></title>
             <link>https://reports.dev.ahconu.org/en/country/niger/</link>
             <guid>https://reports.dev.ahconu.org/en/country/niger/</guid>
             <pubDate>Thu, 26 Sep 2019 15:17:26 GMT</pubDate>
-            <description><![CDATA[ * More than 211,000 affected people, 57 dead and 16,375 houses after the recent floods. Three regions account for 67% of the affected population: Maradi, Zinder and Agadez.
- * More than 40,000 Nigerian refugees from Sokoto, Zamfara and Katsina have found shelter in several communities of Maradi. 64% of host families shelter an average of 23 people each.
- * Despite the positive results of the agropastoral campaign, food insecurity is threatening 480,000 people in the regions affected by the security crisis.
- * With more than 250 civil murders and more than 250 kidnappings, civilian victims in 2019 are already the highest ever registered since the outbreak of the security crisis in 2015.]]></description>
+            <description><![CDATA[<ul><li>More than 211,000 affected people, 57 dead and 16,375 houses after the recent floods. Three regions account for 67% of the affected population: Maradi, Zinder and Agadez.</li>
+<li>More than 40,000 Nigerian refugees from Sokoto, Zamfara and Katsina have found shelter in several communities of Maradi. 64% of host families shelter an average of 23 people each.</li>
+<li>Despite the positive results of the agropastoral campaign, food insecurity is threatening 480,000 people in the regions affected by the security crisis.</li>
+<li>With more than 250 civil murders and more than 250 kidnappings, civilian victims in 2019 are already the highest ever registered since the outbreak of the security crisis in 2015.</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Niger]]></title>
             <link>https://reports.dev.ahconu.org/fr/country/niger/</link>
             <guid>https://reports.dev.ahconu.org/fr/country/niger/</guid>
             <pubDate>Thu, 26 Sep 2019 15:17:03 GMT</pubDate>
-            <description><![CDATA[ * 211 000 sinistrés, 57 morts et 16 375 maisons effondrées suite aux inondations. Trois régions comptent à elles seules 67% des victimes enregistrées : Maradi, Zinder et Agadez.
- * Plus de 40 000 réfugiés Nigérians venant de Sokoto, Zamfara et Katsina installés dans la région de Maradi. 64% des familles hôtes abritent en moyenne 23 personnes par famille.
- * En dépit des prévisions positives de la campagne agropastorale, l’insécurité alimentaire menace près de 480 000 personnes dans les régions touchées par la crise sécuritaire.
- * Avec plus de 250 personnes civiles tuées et plus de 250 enlèvements, le bilan 2019 de la crise sécuritaire sur les frontières a atteint des chiffres jamais enregistrés]]></description>
+            <description><![CDATA[<ul><li>211 000 sinistrés, 57 morts et 16 375 maisons effondrées suite aux inondations. Trois régions comptent à elles seules 67% des victimes enregistrées : Maradi, Zinder et Agadez.</li>
+<li>Plus de 40 000 réfugiés Nigérians venant de Sokoto, Zamfara et Katsina installés dans la région de Maradi. 64% des familles hôtes abritent en moyenne 23 personnes par famille.</li>
+<li>En dépit des prévisions positives de la campagne agropastorale, l’insécurité alimentaire menace près de 480 000 personnes dans les régions touchées par la crise sécuritaire.</li>
+<li>Avec plus de 250 personnes civiles tuées et plus de 250 enlèvements, le bilan 2019 de la crise sécuritaire sur les frontières a atteint des chiffres jamais enregistrés</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Mali]]></title>
             <link>https://reports.dev.ahconu.org/fr/country/mali/</link>
             <guid>https://reports.dev.ahconu.org/fr/country/mali/</guid>
             <pubDate>Fri, 13 Sep 2019 09:22:48 GMT</pubDate>
-            <description><![CDATA[ * 3,9 millions de personnes ont besoin d'assistance humanitaire selon le Plan de Réponse Humanitaire révisé en août
- * Plus de 68 600 personnes sont affectées par les inondations
- * 51 pour cent des villages de la région de Mopti pourraient être touchés par la diminution des surfaces cultivées
- * 98 pour cent des survivantes des violences basées sur le genre (VBG) sont des femmes et des filles]]></description>
+            <description><![CDATA[<ul><li>3,9 millions de personnes ont besoin d'assistance humanitaire selon le Plan de Réponse Humanitaire révisé en août</li>
+<li>Plus de 68 600 personnes sont affectées par les inondations</li>
+<li>51 pour cent des villages de la région de Mopti pourraient être touchés par la diminution des surfaces cultivées</li>
+<li>98 pour cent des survivantes des violences basées sur le genre (VBG) sont des femmes et des filles</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Burkina Faso]]></title>
             <link>https://reports.dev.ahconu.org/en/country/burkina-faso/</link>
             <guid>https://reports.dev.ahconu.org/en/country/burkina-faso/</guid>
             <pubDate>Wed, 11 Sep 2019 14:16:36 GMT</pubDate>
-            <description><![CDATA[ * Burkina Faso is grappling with an unprecedented humanitarian emergency due to a sudden escalation of violence
- * 1.5 million people need humanitarian assistance.
- * More than 289,000 people have been uprooted from their homes. A four-fold increase since the start of the year.
- * More than 95 per cent of the displaced are in host communities
- * 2,024 schools have been forced shut, depriving over 330,000 children of education]]></description>
+            <description><![CDATA[<ul><li>Burkina Faso is grappling with an unprecedented humanitarian emergency due to a sudden escalation of violence</li>
+<li>1.5 million people need humanitarian assistance.</li>
+<li>More than 289,000 people have been uprooted from their homes. A four-fold increase since the start of the year. </li>
+<li>More than 95 per cent of the displaced are in host communities</li>
+<li>2,024 schools have been forced shut, depriving over 330,000 children of education</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Burkina Faso]]></title>
             <link>https://reports.dev.ahconu.org/fr/country/burkina-faso/</link>
             <guid>https://reports.dev.ahconu.org/fr/country/burkina-faso/</guid>
             <pubDate>Wed, 11 Sep 2019 14:10:10 GMT</pubDate>
-            <description><![CDATA[ * Le Burkina Faso est confronté à une crise humanitaire sans précédent liée à une augmentation soudaine de violences.
- * 1,5 million de personnes auront besoin d'assistance humanitaire.
- * Plus de 289 000 personnes ont été forcées de quitter leurs foyers, soit quatre fois plus depuis le début de l'année.
- * Plus de 95% de déplacés internes sont accueillis dans des communautés hôtes.
- * 2024 écoles sont fermées, privant ainsi plus de 330 000 enfants d'éducation. ]]></description>
+            <description><![CDATA[<ul><li>Le Burkina Faso est confronté à une crise humanitaire sans précédent liée à une augmentation soudaine de violences.</li>
+<li>1,5 million de personnes auront besoin d'assistance humanitaire. </li>
+<li>Plus de 289 000 personnes ont été forcées de quitter leurs foyers, soit quatre fois plus depuis le début de l'année.</li>
+<li>Plus de 95% de déplacés internes sont accueillis dans des communautés hôtes. </li>
+<li>2024 écoles sont fermées, privant ainsi plus de 330 000 enfants d'éducation. </li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Myanmar]]></title>
             <link>https://reports.dev.ahconu.org/en/country/myanmar/</link>
             <guid>https://reports.dev.ahconu.org/en/country/myanmar/</guid>
             <pubDate>Tue, 27 Aug 2019 15:00:33 GMT</pubDate>
-            <description><![CDATA[ * Just under 4,500 people remain in evacuation sites, down from a peak of more than 110,000 on 13 August
- * Continued vigilance is advised with the monsoon season ongoing and more heavy rainfall forecast
- * Focus is on the recovery phase once the floodwaters have completely receded
- * Agencies are now engaging in assessments to identify the needs/gaps]]></description>
+            <description><![CDATA[<ul><li>Just under 4,500 people remain in evacuation sites, down from a peak of more than 110,000 on 13 August</li>
+<li>Continued vigilance is advised with the monsoon season ongoing and more heavy rainfall forecast</li>
+<li>Focus is on the recovery phase once the floodwaters have completely receded</li>
+<li>Agencies are now engaging in assessments to identify the needs/gaps</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[République démocratique du Congo]]></title>
             <link>https://reports.dev.ahconu.org/fr/country/drc/</link>
             <guid>https://reports.dev.ahconu.org/fr/country/drc/</guid>
             <pubDate>Wed, 26 Jun 2019 02:08:54 GMT</pubDate>
-            <description><![CDATA[ * Le Fonds humanitaire: Une assistance multisectoriellle dans un environnement toujours changeant
- * La Tshopo, la province oubliée
- * Renforcer la protection communautaire, une nouvelle approche d’aide aux vulnérables dans le Masisi
- * Tanganyika : Résurgence des conflits communautaires, frein à l’action humanitaire]]></description>
+            <description><![CDATA[<ul><li>Le Fonds humanitaire: Une assistance multisectoriellle dans un environnement toujours changeant</li>
+<li>La Tshopo, la province oubliée</li>
+<li>Renforcer la protection communautaire, une nouvelle approche d’aide aux vulnérables dans le Masisi</li>
+<li>Tanganyika : Résurgence des conflits communautaires, frein à l’action humanitaire</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Chad]]></title>
             <link>https://reports.dev.ahconu.org/en/country/chad/</link>
             <guid>https://reports.dev.ahconu.org/en/country/chad/</guid>
             <pubDate>Tue, 04 Jun 2019 17:03:53 GMT</pubDate>
-            <description><![CDATA[ * Renewed violence disrupts livelihoods and takes a heavy toll on local communities in the Lac province
- * According to results of the "Cadre Harmonisé" (Harmonized Framework), close to 3.9 million people will suffer from food insecurity and malnutrition from June to August 2019
- * The measles epidemic in Chad, declared on 30 May 2018, continues to spread
- * To better understand and assist people in need of international protection IOM, UNHCR, Chad's government and the Chadian Red Cross have set up a project to monitor mixed migrations]]></description>
+            <description><![CDATA[<ul><li>Renewed violence disrupts livelihoods and takes a heavy toll on local communities in the Lac province</li>
+<li>According to results of the "Cadre Harmonisé" (Harmonized Framework), close to 3.9 million people will suffer from food insecurity and malnutrition from June to August 2019</li>
+<li>The measles epidemic in Chad, declared on 30 May 2018, continues to spread</li>
+<li>To better understand and assist people in need of international protection IOM, UNHCR, Chad's government and the Chadian Red Cross have set up a project to monitor mixed migrations</li></ul>]]></description>
         </item>
     </channel>
 </rss>
