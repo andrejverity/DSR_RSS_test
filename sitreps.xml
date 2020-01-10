@@ -4,9 +4,39 @@
         <title>DSR: Situation Reports</title>
         <link>https://reports.dev.ahconu.org/feeds/sitreps.xml</link>
         <description>All Situation Reports published on https://reports.dev.ahconu.org</description>
-        <lastBuildDate>Fri, 03 Jan 2020 15:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2020 09:21:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Sudan]]></title>
+            <link>https://reports.dev.ahconu.org/ar/country/sudan/</link>
+            <guid>https://reports.dev.ahconu.org/ar/country/sudan/</guid>
+            <pubDate>Fri, 10 Jan 2020 09:21:18 GMT</pubDate>
+            <description><![CDATA[<ul><li>يواصل الشركاء في المجال الإنساني تقديم المساعدات في منطقة أبيي إلى ما يزيد عن 210,000 من الأشخاص الأكثر عرضة للمخاطر.</li>
+<li>ما يقدر بنحو 2,600 لاجئ من جمهورية أفريقيا الوسطى فروا من ديارهم ولجأوا إلى محلية أم دافوق بولاية جنوب دارفور.</li>
+<li>يستمر الإبلاغ عن الكوليرا (332 حالة)، وحمى الضنك (1,197 حالة)، وحمى الوادي المتصدع (279 حالة)، والشيكونغونيا (63 حالة) في أنحاء البلاد كافة.</li>
+<li>استجابةً لتفشي حمى الوادي المتصدع في ولاية البحر الأحمر، جرى تنشيط فرقة العمل المعنية التي تعقد اجتماعاتها يومياً.</li></ul>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Sudan]]></title>
+            <link>https://reports.dev.ahconu.org/en/country/sudan/</link>
+            <guid>https://reports.dev.ahconu.org/en/country/sudan/</guid>
+            <pubDate>Fri, 10 Jan 2020 09:17:24 GMT</pubDate>
+            <description><![CDATA[<ul><li>Humanitarian partners continue to assist over 210,000 vulnerable people in the Abyei Area.</li>
+<li>An estimated 3,100 refugees from the Central African Republic have fled their homes and taken refuge in Um Dafug locality, South Darfur State.</li>
+<li>Cholera (387 cases), dengue (2,135 cases), rift valley fever (341 cases), and chikungunya (87 cases) continue to be reported across the country.</li>
+<li>In response to the rift valley fever outbreak in Red Sea State a task force committee has been activated and is meeting daily. </li></ul>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Burundi]]></title>
+            <link>https://reports.dev.ahconu.org/fr/country/burundi/</link>
+            <guid>https://reports.dev.ahconu.org/fr/country/burundi/</guid>
+            <pubDate>Fri, 10 Jan 2020 09:13:37 GMT</pubDate>
+            <description><![CDATA[<ul><li>L'OIM et la Croix-Rouge répondent aux ravages causés par les pluies torrentielles qui ont touché plus de 4 000 personnes au Burundi dans la province de Muyinga</li>
+<li>Prévention d'Ebola : L'UNICEF soutient la sensibilisation des écoliers burundais à l'hygiène</li>
+<li>La campagne de vaccination contre Ebola touche 4 105 personnes, dont 130 agents humanitaires.</li>
+<li>OCHA organise un atelier de planification de l'intervention humanitaire pour 2020</li></ul>]]></description>
+        </item>
         <item>
             <title><![CDATA[Haiti]]></title>
             <link>https://reports.dev.ahconu.org/en/country/haiti/</link>
@@ -15,16 +45,6 @@
             <description><![CDATA[<ul><li>Hospitals, orphanages, civil protection units and other emergency services are functioning with limited capacity because of fuel shortage, lack of safe water and other essentials.</li>
 <li>UN agencies and their partners seek to resume humanitarian assistance to thousands of vulnerable Haitians. Their ability to deliver is affected because of restricted access.</li>
 <li>Completely new Highlight regarding another issue in Haiti.</li></ul>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Burundi]]></title>
-            <link>https://reports.dev.ahconu.org/fr/country/burundi/</link>
-            <guid>https://reports.dev.ahconu.org/fr/country/burundi/</guid>
-            <pubDate>Fri, 03 Jan 2020 15:25:11 GMT</pubDate>
-            <description><![CDATA[<ul><li>L'OIM et la Croix-Rouge répondent aux ravages causés par les pluies torrentielles qui ont touché plus de 3 000 personnes au Burundi dans la province de Muyinga</li>
-<li>Prévention d'Ebola : L'UNICEF soutient la sensibilisation des écoliers burundais à l'hygiène</li>
-<li>La campagne de vaccination contre Ebola touche 4 105 personnes, dont 130 agents humanitaires.</li>
-<li>OCHA organise un atelier de planification de l'intervention humanitaire pour 2020</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Afghanistan]]></title>
@@ -68,16 +88,6 @@
 <li>Magaalooyinka hareereysan iyo xannibaadaha gelitaanka ayaa xaddidey qiyaastii 77,000 oo qof in ay gargaar helaan.</li></ul>]]></description>
         </item>
         <item>
-            <title><![CDATA[Sudan]]></title>
-            <link>https://reports.dev.ahconu.org/en/country/sudan/</link>
-            <guid>https://reports.dev.ahconu.org/en/country/sudan/</guid>
-            <pubDate>Tue, 26 Nov 2019 15:27:10 GMT</pubDate>
-            <description><![CDATA[<ul><li>Humanitarian partners continue to assist over 202,000 vulnerable people in the Abyei Area.</li>
-<li>An estimated 2,600 refugees from the Central African Republic have fled their homes and taken refuge in Um Dafug locality, South Darfur State.</li>
-<li>Cholera (336 cases), dengue (1,793 cases), rift valley fever (293 cases), and chikungunya (82 cases) continue to be reported across the country.</li>
-<li>In response to the rift valley fever outbreak in Red Sea State a task force committee has been activated and is meeting daily. </li></ul>]]></description>
-        </item>
-        <item>
             <title><![CDATA[Somalia ]]></title>
             <link>https://reports.dev.ahconu.org/en/country/somalia/</link>
             <guid>https://reports.dev.ahconu.org/en/country/somalia/</guid>
@@ -92,16 +102,6 @@
             <pubDate>Tue, 12 Nov 2019 13:56:38 GMT</pubDate>
             <description><![CDATA[<ul><li>As of 12 November, over 260,000 people are in need of assistance due to a series of earthquakes in Tulunan, North Cotabato in Mindanao.</li>
 <li>The Humanitarian-Development-Peace Nexus: Towards a New Way of Working in the Philippines</li></ul>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sudan]]></title>
-            <link>https://reports.dev.ahconu.org/ar/country/sudan/</link>
-            <guid>https://reports.dev.ahconu.org/ar/country/sudan/</guid>
-            <pubDate>Thu, 07 Nov 2019 12:48:51 GMT</pubDate>
-            <description><![CDATA[<ul><li>يواصل الشركاء في المجال الإنساني تقديم المساعدات في منطقة أبيي إلى ما يزيد عن 211,000 من الأشخاص الأكثر عرضة للمخاطر.</li>
-<li>ما يقدر بنحو 2,600 لاجئ من جمهورية أفريقيا الوسطى فروا من ديارهم ولجأوا إلى محلية أم دافوق بولاية جنوب دارفور.</li>
-<li>يستمر الإبلاغ عن الكوليرا (332 حالة)، وحمى الضنك (1,197 حالة)، وحمى الوادي المتصدع (279 حالة)، والشيكونغونيا (63 حالة) في أنحاء البلاد كافة.</li>
-<li>استجابةً لتفشي حمى الوادي المتصدع في ولاية البحر الأحمر، جرى تنشيط فرقة العمل المعنية التي تعقد اجتماعاتها يومياً.</li></ul>]]></description>
         </item>
         <item>
             <title><![CDATA[Yemen]]></title>
