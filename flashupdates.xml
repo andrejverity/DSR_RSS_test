@@ -4,15 +4,30 @@
         <title>DSR: Flash Updates</title>
         <link>https://reports.dev.ahconu.org/feeds/flashupdates.xml</link>
         <description>All Flash Updates published on https://reports.dev.ahconu.org</description>
-        <lastBuildDate>Fri, 03 Jan 2020 15:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2020 09:18:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Humanitarian Response in Geneina, West Darfur]]></title>
+            <link>https://reports.dev.ahconu.org/en/country/sudan/flash-update/2WBRtKVrm6Siag0YGEdnJS/</link>
+            <guid>https://reports.dev.ahconu.org/en/country/sudan/flash-update/2WBRtKVrm6Siag0YGEdnJS/</guid>
+            <pubDate>Fri, 10 Jan 2020 09:12:11 GMT</pubDate>
+            <description><![CDATA[<p>Humanitarian partners continue to assist people affected by inter-communal violence between Massalit and Arab tribespeople in and around El Geneina town in West Darfur. According to media reports, Prime Minister Dr Abdallah Hamdouk said in a press statement that the two parties committed to a cessation of hostilities, non-aggression, and keeping peace and stability in the area.</p><p>Sudan&#39;s Humanitarian Aid Commission (HAC) and partners estimate that about 40,000 people have been displaced, including secondary displacement of some 32,000 from three internally displaced persons IDP camps (Krinding 1, Krinding 2, and Al Sultan IDP camps). In addition, UNHCR reported that over 5,488 people have crossed the border into Chad, seeking refuge in villages near the border. Assistance being provided includes food, health, non-food items (NFIs), nutrition, as well as water, sanitation and hygiene (WASH), and protection services.</p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Flash Update No. 1: Typhoon Phanfone (Ursula)]]></title>
             <link>https://reports.dev.ahconu.org/en/country/philippines/flash-update/4qNLTLKuXxSka0eSYMJvG2/</link>
             <guid>https://reports.dev.ahconu.org/en/country/philippines/flash-update/4qNLTLKuXxSka0eSYMJvG2/</guid>
-            <pubDate>Fri, 03 Jan 2020 15:27:49 GMT</pubDate>
-            <description><![CDATA[<p>This is an example FU to experiment with the feeds. It has been updated.</p><p>Second paragraph to see if we can import the content of a FU into MailChimp.</p>]]></description>
+            <pubDate>Fri, 10 Jan 2020 09:11:24 GMT</pubDate>
+            <description><![CDATA[<h4>Situation Overview</h4><p>Typhoon Phanfone (locally named Ursula) continues to move away from the Philippines and is forecast to exit the Philippine Area of Responsibility by the morning of 28 December. The typhoon made initial landfall on the evening of 24 December near Salcedo, Eastern Samar, with sustained wind speeds of 120 kph and gusts of up to 150 kph. The storm, brought heavy rain and strong winds as it traversed the Visayas region of central Philippines, exiting the landmass through Mindoro and Palawan, making seven landfalls overall. As the Government validates the extent of damage and number of people affected by the typhoon, official reports confirm casualties have risen to 28 deaths, 2 injured and 12 missing. In Iloilo, a family of six drowned while trying to evacuate to higher ground. As of 27 December, over 185,000 people are affected in 584 barangays (villages) in Regions V, VI, VII, VIII and Caraga. The traversing of the typhoon in Region VIII seemed to have the highest impact, affecting over 146,000 people. Over 52,000 people are still displaced, with nearly 90 per cent staying in evacuation centres, while more than 5,500 are currently staying with host families.
+
+On Christmas Day, Typhoon Phanfone knocked out mobile telephone services, power lines, uprooted trees and caused damage to infrastructure, health facilities, schools and homes made of light material. According to local media, the provinces of Leyte, Iloilo and Capiz experienced heavy flooding, while strong winds and rain damaged homes and buildings in Tacloban City, Aklan, Biliran, Eastern Samar and Capiz. In San Enrique, Iloilo, a magnitude-4.8 earthquake also struck on 26 December and was felt by surrounding areas affected by the typhoon.
+
+The Typhoon also hit Boracay, Coron and other holiday destinations popular with tourists. Heavy to sometimes intense rain and strong winds caused flooding and damage to over 2,000 homes, toppled power lines and washed out water pipes. Agricultural damage to rice, corn, fisheries and agricultural infrastructure have been estimated at over PhP633 million ($12.4 million) As of 27 December, the provinces of Biliran, Capiz Eastern Samar, Leyte; the municipalities of Medellin and Daanbantayan in Cebu and Tacloban City have declared a state of calamity, enabling them to tap local emergency funding.</p><h4>Government response and humanitarian coordination</h4><p>The national government is leading the response, assisted by the Philippine Red Cross who have deployed staff and volunteers to the most-affected areas to establish welfare desks, provide psychosocial and first air support, clear roads of debris, including fallen trees and toppled electricity posts.
+
+Food, blankets, tents and other emergency shelter materials, potable water, bedding and basic relief items were identified as priority needs for affected communities. OXFAM and the Philippine&#39;s Disaster Risk Reduction Network are conducting an initial assessment in some of the affected areas.
+
+Local authorities together with the Department of Social Welfare and Development have distributed some PhP2.3 million ($45,000) worth of pre-positioned food and relief assistance to date.</p>]]></description>
         </item>
         <item>
             <title><![CDATA[Flash Update No. 4: Tulunan, North Cotabato Earthquakes as of 12 November]]></title>
